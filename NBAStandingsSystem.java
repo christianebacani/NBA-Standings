@@ -1,3 +1,5 @@
+// NBA Standings
+// Created by : Christiane A. Bacani
 import java.util.Scanner;;
 public class NBAStandingsSystem {
     public static void west(){
